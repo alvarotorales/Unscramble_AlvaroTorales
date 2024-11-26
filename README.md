@@ -20,4 +20,4 @@ Getting Started
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 
-![Captura del emulador](./gradle/Screenshot_20241126_183901.png)
+![Captura del emulador](./Screenshot_20241126_183901.png)
